@@ -10,7 +10,7 @@
 ---
 
 ## Overview  
-This project explores various **image feature extraction techniques** and analyzes their impact on **classification performance** using different machine learning models. We evaluate both **traditional feature extraction methods** (HOG, LBP) and **deep learning-based feature extraction** (ResNet50) to compare their effectiveness on the **CIFAR-10 dataset**.
+This project explores various **image feature extraction techniques** and analyzes their impact on **classification performance** using different machine learning models. We evaluate both **traditional feature extraction methods** (HOG and LBP) and **deep learning-based feature extraction** (ResNet50) to compare their effectiveness on the **CIFAR-10 dataset**.
 
 ---
 
