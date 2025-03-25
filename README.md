@@ -74,7 +74,9 @@ We compare classification performance based on **accuracy** and **training time*
 ### Clone the repository  
 ```bash
 git clone https://github.com/MAvinash24/ML_Assignment.git
-cd <your-repo-folder>
+```
+```bash
+cd ML_Assignment
 ```
 
 ### Install dependencies  
