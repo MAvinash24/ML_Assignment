@@ -65,7 +65,7 @@ We compare classification performance based on **accuracy** and **training time*
 
 ### 5. Key Findings  
 - **ResNet50 outperforms traditional feature extraction methods**, achieving the highest accuracy.  
-- **HOG performs better than LBP**, as LBP is more sensitive to image noise.  
+- **HOG performs better than LBP**, as LBP is more sensitive to the image noise.  
 - **Using the full dataset** could further improve ResNet50’s accuracy and generalization.  
 
 ---
