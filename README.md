@@ -3,10 +3,6 @@
 ## Image Feature Extraction and Classification
 **Machine Learning in Cyber Security (20CYS215)**  
 
-### Team Members:
-- **M. Avinash** 
-- **P. Deepak Sai Vighnesh** 
-
 ---
 
 ## Overview  
